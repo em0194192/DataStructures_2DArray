@@ -1,0 +1,14 @@
+/Users/em0194192/RiderProjects/DSandA_HashTables/DSandA_HashTables/bin/Debug/net8.0/DSandA_HashTables
+/Users/em0194192/RiderProjects/DSandA_HashTables/DSandA_HashTables/bin/Debug/net8.0/DSandA_HashTables.deps.json
+/Users/em0194192/RiderProjects/DSandA_HashTables/DSandA_HashTables/bin/Debug/net8.0/DSandA_HashTables.runtimeconfig.json
+/Users/em0194192/RiderProjects/DSandA_HashTables/DSandA_HashTables/bin/Debug/net8.0/DSandA_HashTables.dll
+/Users/em0194192/RiderProjects/DSandA_HashTables/DSandA_HashTables/bin/Debug/net8.0/DSandA_HashTables.pdb
+/Users/em0194192/RiderProjects/DSandA_HashTables/DSandA_HashTables/obj/Debug/net8.0/DSandA_HashTables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/em0194192/RiderProjects/DSandA_HashTables/DSandA_HashTables/obj/Debug/net8.0/DSandA_HashTables.AssemblyInfoInputs.cache
+/Users/em0194192/RiderProjects/DSandA_HashTables/DSandA_HashTables/obj/Debug/net8.0/DSandA_HashTables.AssemblyInfo.cs
+/Users/em0194192/RiderProjects/DSandA_HashTables/DSandA_HashTables/obj/Debug/net8.0/DSandA_HashTables.csproj.CoreCompileInputs.cache
+/Users/em0194192/RiderProjects/DSandA_HashTables/DSandA_HashTables/obj/Debug/net8.0/DSandA_HashTables.dll
+/Users/em0194192/RiderProjects/DSandA_HashTables/DSandA_HashTables/obj/Debug/net8.0/refint/DSandA_HashTables.dll
+/Users/em0194192/RiderProjects/DSandA_HashTables/DSandA_HashTables/obj/Debug/net8.0/DSandA_HashTables.pdb
+/Users/em0194192/RiderProjects/DSandA_HashTables/DSandA_HashTables/obj/Debug/net8.0/DSandA_HashTables.genruntimeconfig.cache
+/Users/em0194192/RiderProjects/DSandA_HashTables/DSandA_HashTables/obj/Debug/net8.0/ref/DSandA_HashTables.dll

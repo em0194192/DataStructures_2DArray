@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DSandA_HashTables/1.0.0": {
+        "runtime": {
+          "DSandA_HashTables.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DSandA_HashTables/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
